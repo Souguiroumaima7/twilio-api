@@ -1,0 +1,11 @@
+one:
+  published_at: 2019-07-03 09:32:04
+  announcement_type: MyString
+  name: MyString
+  description: MyText
+
+two:
+  published_at: 2019-07-03 09:32:04
+  announcement_type: MyString
+  name: MyString
+  description: MyText
